@@ -38,6 +38,3 @@ js/part2.js       Part 2 logic (alerts, feedback and tracking, FAQs)
 - Frontend Part 1 (Yan Keer): Home, Construction Updates, Disruption Information, Access Guides
 - Frontend Part 2 (Faiq Ahmed): My Alerts, Community Feedback, Help Centre
 
-## AI acknowledgement
-
-AI tools (ChatGPT and Claude) were used to support planning, drafting and debugging. All code was reviewed, modified and tested by the team.
